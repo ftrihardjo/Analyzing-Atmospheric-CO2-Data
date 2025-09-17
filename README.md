@@ -8,8 +8,10 @@
 5. Scientific Research: Monitoring CO2 aids climate modeling, carbon cycle studies, and understanding atmospheric dynamics.
 
 ## Dataset
-The dataset used is from [data commons by Google](https://datacommons.org/tools/visualization#visType%3Dtimeline%26place%3DEarth%26placeType%3DCountry%26sv%3D%7B%22dcid%22%3A%22sdg%2FEN_ATM_CO2%22%7D), which is sourced from 
-[United Nations](https://unstats.un.org/sdgs/dataportal).
+The dataset used is from [IEA-EDGAR CO2](edgar.jrc.ec.europa.eu/dataset_ghg2024). It contains information on the monthly amount of CO2 emission from 1970 to 2023 for every country by different emission sources.
+
+## Analysis
+Based on the graph of the monthly mean CO2 levels from January 2013 to December 2022, it decreases at the start of the year, plateaus in May, and then increases in September, reaching the same monthly mean CO2 levels as at the beginning of the year in December.
 
 ## Insights into potential impacts of rising CO2 levels on climate change
 ### Key Climate Impacts of Rising CO₂
