@@ -8,7 +8,7 @@
 5. Scientific Research: Monitoring CO2 aids climate modeling, carbon cycle studies, and understanding atmospheric dynamics.
 
 ## Dataset
-The dataset used is from [IEA-EDGAR CO2](edgar.jrc.ec.europa.eu/dataset_ghg2024). It contains information on the monthly amount of CO2 emission from 1970 to 2023 for every country by different emission sources.
+The dataset used is from [IEA-EDGAR CO2](edgar.jrc.ec.europa.eu/dataset_ghg2024) sheet IPCC 2006. It contains information on the monthly amount of CO2 emission from 1970 to 2023 for every country by different emission sources.
 
 ## Analysis
 Based on the graph of the monthly mean CO2 levels from January 2013 to December 2022, it decreases at the start of the year, plateaus in May, and then increases in September, reaching the same monthly mean CO2 levels as at the beginning of the year in December.
